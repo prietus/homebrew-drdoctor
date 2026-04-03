@@ -1,6 +1,6 @@
 cask "drdoctor" do
-  version "1.0.0"
-  sha256 "5f8c5abdd398d7722e06d0a44736fdc3d2cbdc8d17c1f53906159c93961b0a39"
+  version "1.1.0"
+  sha256 "bbe2f7d2ea9a5d38b14d246e9e9045683e013ae3da2c7a142570458781472120"
 
   url "https://drdoctor.priet.us/downloads/DrDoctor-#{version}.dmg"
   name "DrDoctor"
