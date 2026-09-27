@@ -1,6 +1,6 @@
 cask "drdoctor" do
-  version "1.2.0"
-  sha256 "a2c893b4f59cd418c09814daca8c436542ef5fb7b473be5044dff0873fbfdfcc"
+  version "1.3.0"
+  sha256 "145f7a6127f790b4182f40e002ec789b4d192ba535add8c4f42c189f3c11b785"
 
   url "https://github.com/prietus/drdoctor/releases/download/v#{version}/DrDoctor-#{version}.dmg"
   name "DrDoctor"
